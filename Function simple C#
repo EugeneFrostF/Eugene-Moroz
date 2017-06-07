@@ -1,0 +1,33 @@
+namespace simple
+{
+    class Program
+    {
+        static void Main()
+        {
+            int a = 4;
+            int b = 3;
+            Console.WriteLine("inc = " + Program.inc(ref a));
+            Console.WriteLine("sum = " + Program.sum(a, b ));
+            Console.WriteLine("max = " + Program.max(a, b ));
+            Console.ReadKey();
+        }
+         static public int inc(ref int a)
+        {
+            return ++a;
+        }
+
+         static public int sum(int a, int b)
+        {
+            return a + b;
+        }
+
+         static public int max(int a, int b)
+        {
+            return a > b ? a : b;
+        }
+
+        
+
+    }
+    
+}
