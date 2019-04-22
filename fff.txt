@@ -4,9 +4,15 @@ asd
 ad
 asdas
 sda
+<<<<<<< HEAD
 dassdasdasasasdasd
 das
 dasasdasdadasd
+=======
+dassdadasdadadasd
+das
+das
+>>>>>>> master
 das
 das
 das
