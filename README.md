@@ -1,4 +1,4 @@
-# Functions
+﻿123# Functions
 Functions as a method to raise level of code abstraction фтв ффтвф тфвт djqssfhkq-qworpuoqrupoq
 awfuqr
 qw[ruqw
